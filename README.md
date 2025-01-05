@@ -4,3 +4,6 @@ This project uses a model trained on the MNIST dataset to predict handwritten di
 
 The project also uses Gradio to create an interactive interface. Users can draw a digit on the sketchpad, and the system will process the drawing, resize it, and make a prediction based on the trained model. The predicted digit is then displayed.
 
+Here are two example predictions:
+![Prediction 1](sample_predictions/prediction_4.png)
+![Prediction 2](sample_predictions/prediction_8.png)
